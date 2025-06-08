@@ -1,1 +1,3 @@
 *.exe
+.docker/
+docker-compose.override.yml
